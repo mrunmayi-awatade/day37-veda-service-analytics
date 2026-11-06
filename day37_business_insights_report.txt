@@ -1,0 +1,7 @@
+DAY 37 - VEDA TECHNOLOGY BUSINESS ANALYTICS REPORT
+--------------------------------------------------
+Most Demanded IT Service: Hardware Support
+Most Popular Digital Service: Cloud Storage
+Most Used Inquiry Channel: Website
+Average Customer Satisfaction: 2.96/5
+Total Customer Requests: 200

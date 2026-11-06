@@ -1,0 +1,13 @@
+Request_Type,Status,Total_Requests
+Complaint,Closed,20
+Complaint,In Progress,20
+Complaint,Open,19
+General Inquiry,Closed,18
+General Inquiry,In Progress,14
+General Inquiry,Open,11
+Service Request,Closed,9
+Service Request,In Progress,16
+Service Request,Open,23
+Technical Help,Closed,12
+Technical Help,In Progress,21
+Technical Help,Open,17
